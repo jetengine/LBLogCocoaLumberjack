@@ -1,0 +1,16 @@
+PODS:
+  - LBLogCocoaLumberjack (0.1.0)
+
+DEPENDENCIES:
+  - LBLogCocoaLumberjack (from `../`)
+
+EXTERNAL SOURCES:
+  LBLogCocoaLumberjack:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LBLogCocoaLumberjack: b9a47cc22fb8dbf76385721c0bab6cc6189fd56a
+
+PODFILE CHECKSUM: 2085f07b2d84defdb3e8c70c13a781a0e03aa613
+
+COCOAPODS: 1.11.3

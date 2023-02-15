@@ -1,0 +1,6 @@
+framework module LBLogCocoaLumberjack {
+  umbrella header "LBLogCocoaLumberjack-umbrella.h"
+
+  export *
+  module * { export * }
+}

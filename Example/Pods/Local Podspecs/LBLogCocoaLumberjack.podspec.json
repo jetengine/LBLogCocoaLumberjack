@@ -1,0 +1,22 @@
+{
+  "name": "LBLogCocoaLumberjack",
+  "version": "0.1.0",
+  "summary": "A short description of LBLogCocoaLumberjack.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jetengine/LBLogCocoaLumberjack",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jetengine": "hexuefei.aoyou@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jetengine/LBLogCocoaLumberjack.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LBLogCocoaLumberjack/Classes/**/*"
+}
